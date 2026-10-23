@@ -1,0 +1,29 @@
+{
+  "id": "./",
+  "name": "مُعِين الحُفّاظ - متشابهات القرآن الكريم وضوابطها",
+  "short_name": "مُعِين الحُفّاظ",
+  "description": "منصة ذكية للبحث في المتشابهات اللفظية في القرآن الكريم مع عرض الآية التالية والضوابط الحفظية وسجل الأخطاء التراكمي.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#042F2E",
+  "theme_color": "#042F2E",
+  "dir": "rtl",
+  "lang": "ar",
+  "categories": ["education", "books", "reference"],
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
